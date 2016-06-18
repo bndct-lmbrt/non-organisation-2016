@@ -8,7 +8,7 @@ image_url:
 
 ![Ambiancezikos](https://github.com/multibao/contributions/blob/master/media/devopensud-langlois-zik-ccbysa2.jpg?raw=true)
 
-* Une ambiance musicale à DevOpenSud* 
+*Une ambiance musicale à DevOpenSud* 
 
 
 
