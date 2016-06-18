@@ -1,8 +1,7 @@
 ---
 title: Devopencourge
 description: Lorsqu'une courge de 15 kg nous est tombée dessus
-image_url: >-
-  https://github.com/multibao/contributions/blob/master/media/devopensud-thecourge.jpg?raw=true
+image_url: https://github.com/multibao/contributions/blob/master/media/devopensud-thecourge.jpg?raw=true
 published: true
 ---
 
