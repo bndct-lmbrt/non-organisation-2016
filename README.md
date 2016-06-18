@@ -1,5 +1,7 @@
 # Non-organisation-2016
 
+> Faites des trucs, qu'ils disaient.
+
 Pratiques non-organisées du Devopensud 2016.
 
 * Du jeudi 16 juin au dimanche 19 juin 2016
