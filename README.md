@@ -1,15 +1,15 @@
+---
+title: Pratiques de non organisation du devopensud 2016
+description: 10 développeurs dans un chalet de montagne
+image_url: https://github.com/multibao/contributions/blob/master/media/devopensud-repas-fabien350-ccbysa.jpg?raw=true
+---
+
 # Non-organisation-2016
 
 > Faites des trucs, qu'ils disaient.
 
 Pratiques non-organisées du Devopensud 2016.
 
-* Du jeudi 16 juin au dimanche 19 juin 2016
-* jusqu'à 20 développeurs
-* Un gîte dans les Alpes.
-* Pas de programme à l’avance.
-* Pas d’organisateur.
-* 160 euros pour l'hébergement et les repas.
-* Inscriptions : [https://dos2016.eventbrite.co.uk](https://dos2016.eventbrite.co.uk)
-
 > http://devopensud.fr/
+
+![devopensud2015](https://github.com/multibao/contributions/blob/master/media/devopensud-fabien-scence-ccbysa.jpg?raw=true)
