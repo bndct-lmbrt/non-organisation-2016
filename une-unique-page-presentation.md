@@ -1,3 +1,9 @@
+---
+title: Single page de présentation de l'événement
+description: Une unique page web déployée pour présenter l'évenement. En voici les informations minimales.
+image_url: https://github.com/multibao/contributions/blob/master/media/devopensud-fabien-scence350-ccbysa.jpg?raw=true
+---
+
 ## Digest
 
 * Du jeudi 16 juin au dimanche 19 juin 2016
