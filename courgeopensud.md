@@ -1,7 +1,9 @@
 ---
 title: Devopencourge
 description: Lorsqu'une courge de 15 kg nous est tombée dessus
-image_url: https://github.com/multibao/contributions/blob/master/media/devopensud-thecourge.jpg?raw=true
+image_url: >-
+  https://github.com/multibao/contributions/blob/master/media/devopensud-thecourge.jpg?raw=true
+published: true
 ---
 
 # #CourgeOpenSud
@@ -17,11 +19,13 @@ image_url: https://github.com/multibao/contributions/blob/master/media/devopensu
 
 * la manger
 * en faire une sculpture
-* la balander 
+* la composter
 
 ### L'estimation de la courge
 
 ![courge](https://github.com/multibao/contributions/blob/master/media/devopensud-antoinevernois-courge2-ccbysa.jpg?raw=true)
+
+*La courge, nouvel outil de collaboration*
 
 ### Impact économique et impact social 
 
@@ -39,4 +43,3 @@ Thomas a récupéré des pépins de courge pour son jardin.
 Certains sont repartis avec leurs goodies de gratin de graines de courges.
 
 ![courge coupée](https://github.com/multibao/contributions/blob/master/media/devopensud-antoinevernois-courge-ccbysa.jpg?raw=true)
-
