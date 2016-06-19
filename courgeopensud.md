@@ -42,3 +42,9 @@ Thomas a récupéré des pépins de courge pour son jardin.
 Certains sont repartis avec leurs goodies de gratin de graines de courges.
 
 ![courge coupée](https://github.com/multibao/contributions/blob/master/media/devopensud-antoinevernois-courge-ccbysa.jpg?raw=true)
+
+#### Hack
+
+Imagination d'un robot dépollueur d'océans - matières microplastiques
+
+![courge](https://github.com/multibao/contributions/blob/master/media/devopensud-courgerobot.jpg?raw=true)
