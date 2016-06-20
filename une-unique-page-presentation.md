@@ -4,6 +4,8 @@ description: Une unique page web déployée pour présenter l'évenement. En voi
 image_url: https://github.com/multibao/contributions/blob/master/media/devopensud-fabien-scence350-ccbysa.jpg?raw=true
 ---
 
+> Code source du site http://devopensud: [lien](https://github.com/devopensud/devopensud.github.io)
+
 ## Digest
 
 * Du jeudi 16 juin au dimanche 19 juin 2016
